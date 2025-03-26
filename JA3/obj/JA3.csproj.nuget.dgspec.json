@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bolog\\Desktop\\Progetti\\JA3\\JA3\\JA3.csproj": {}
+    "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\JA3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bolog\\Desktop\\Progetti\\JA3\\JA3\\JA3.csproj": {
+    "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\JA3.csproj": {
       "version": "1.1.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bolog\\Desktop\\Progetti\\JA3\\JA3\\JA3.csproj",
+        "projectUniqueName": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\JA3.csproj",
         "projectName": "Tools.JA3",
-        "projectPath": "C:\\Users\\bolog\\Desktop\\Progetti\\JA3\\JA3\\JA3.csproj",
-        "packagesPath": "C:\\Users\\bolog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bolog\\Desktop\\Progetti\\JA3\\JA3\\obj\\",
+        "projectPath": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\JA3.csproj",
+        "packagesPath": "C:\\Users\\ZygoteCode\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bolog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ZygoteCode\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -13,6 +13,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\bolog\Desktop\Progetti\JA3\JA3\bin\x64\Release\net8.0\JA3.dll" target="lib\net8.0\JA3.dll" />
+    <file src="C:\Users\ZygoteCode\Desktop\Progetti\JA3\JA3\bin\x64\Release\net8.0\JA3.dll" target="lib\net8.0\JA3.dll" />
   </files>
 </package>

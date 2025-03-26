@@ -2,9 +2,9 @@
   "version": 2,
   "dgSpecHash": "ioY+lwf7hBU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bolog\\Desktop\\Progetti\\JA3\\JA3\\JA3.csproj",
+  "projectFilePath": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\JA3.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\bolog\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512"
+    "C:\\Users\\ZygoteCode\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512"
   ],
   "logs": []
 }

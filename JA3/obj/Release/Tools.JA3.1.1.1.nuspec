@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Tools.JA3</id>
+    <version>1.1.1</version>
+    <authors>xudan.xiao</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="742948539f74f27cea6c0267ff43cad4fa6961da" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="BouncyCastle.Cryptography" version="2.4.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ZygoteCode\Desktop\Progetti\JA3\JA3\bin\x64\Release\net8.0\JA3.dll" target="lib\net8.0\JA3.dll" />
+  </files>
+</package>

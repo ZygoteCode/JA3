@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+	  <PackageId>Tools.JA3</PackageId>
+	  <Version>1.1.1</Version>
+	  <Authors>xudan.xiao</Authors>
+	  <Company>xyz8808</Company>
+	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	  <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BouncyCastle.Cryptography" Version="2.4.0" />
+  </ItemGroup>
+
+</Project>

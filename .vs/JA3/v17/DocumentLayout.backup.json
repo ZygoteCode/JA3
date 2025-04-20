@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFBE0D1-E844-47F8-BF55-9B2071EF155B}|JA3\\JA3.csproj|c:\\users\\ZygoteCode\\desktop\\progetti\\ja3\\ja3\\http2\\http2connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFBE0D1-E844-47F8-BF55-9B2071EF155B}|JA3\\JA3.csproj|solutionrelative:ja3\\http2\\http2connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFBE0D1-E844-47F8-BF55-9B2071EF155B}|JA3\\JA3.csproj|c:\\users\\ZygoteCode\\desktop\\progetti\\ja3\\ja3\\http2\\http2client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFBE0D1-E844-47F8-BF55-9B2071EF155B}|JA3\\JA3.csproj|solutionrelative:ja3\\http2\\http2client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFBE0D1-E844-47F8-BF55-9B2071EF155B}|JA3\\JA3.csproj|c:\\users\\ZygoteCode\\desktop\\progetti\\ja3\\ja3\\http2\\http2stream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFBE0D1-E844-47F8-BF55-9B2071EF155B}|JA3\\JA3.csproj|solutionrelative:ja3\\http2\\http2stream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFBE0D1-E844-47F8-BF55-9B2071EF155B}|JA3\\JA3.csproj|c:\\users\\ZygoteCode\\desktop\\progetti\\ja3\\ja3\\ja3tlsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFBE0D1-E844-47F8-BF55-9B2071EF155B}|JA3\\JA3.csproj|solutionrelative:ja3\\ja3tlsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFBE0D1-E844-47F8-BF55-9B2071EF155B}|JA3\\JA3.csproj|c:\\users\\ZygoteCode\\desktop\\progetti\\ja3\\ja3\\http2\\http2messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFBE0D1-E844-47F8-BF55-9B2071EF155B}|JA3\\JA3.csproj|solutionrelative:ja3\\http2\\http2messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFBE0D1-E844-47F8-BF55-9B2071EF155B}|JA3\\JA3.csproj|c:\\users\\ZygoteCode\\desktop\\progetti\\ja3\\ja3\\http2\\http2settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFBE0D1-E844-47F8-BF55-9B2071EF155B}|JA3\\JA3.csproj|solutionrelative:ja3\\http2\\http2settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFBE0D1-E844-47F8-BF55-9B2071EF155B}|JA3\\JA3.csproj|c:\\users\\ZygoteCode\\desktop\\progetti\\ja3\\ja3\\ja3messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFBE0D1-E844-47F8-BF55-9B2071EF155B}|JA3\\JA3.csproj|solutionrelative:ja3\\ja3messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFBE0D1-E844-47F8-BF55-9B2071EF155B}|JA3\\JA3.csproj|c:\\users\\ZygoteCode\\desktop\\progetti\\ja3\\ja3\\ja3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8FFBE0D1-E844-47F8-BF55-9B2071EF155B}|JA3\\JA3.csproj|solutionrelative:ja3\\ja3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ja3TlsClient.cs",
+              "DocumentMoniker": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\Ja3TlsClient.cs",
+              "RelativeDocumentMoniker": "JA3\\Ja3TlsClient.cs",
+              "ToolTip": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\Ja3TlsClient.cs",
+              "RelativeToolTip": "JA3\\Ja3TlsClient.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:53:32.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Http2Client.cs",
+              "DocumentMoniker": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\Http2\\Http2Client.cs",
+              "RelativeDocumentMoniker": "JA3\\Http2\\Http2Client.cs",
+              "ToolTip": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\Http2\\Http2Client.cs",
+              "RelativeToolTip": "JA3\\Http2\\Http2Client.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:51:22.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Http2Stream.cs",
+              "DocumentMoniker": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\Http2\\Http2Stream.cs",
+              "RelativeDocumentMoniker": "JA3\\Http2\\Http2Stream.cs",
+              "ToolTip": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\Http2\\Http2Stream.cs",
+              "RelativeToolTip": "JA3\\Http2\\Http2Stream.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:49:52.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Http2Settings.cs",
+              "DocumentMoniker": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\Http2\\Http2Settings.cs",
+              "RelativeDocumentMoniker": "JA3\\Http2\\Http2Settings.cs",
+              "ToolTip": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\Http2\\Http2Settings.cs",
+              "RelativeToolTip": "JA3\\Http2\\Http2Settings.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:49:50.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Http2MessageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\Http2\\Http2MessageHandler.cs",
+              "RelativeDocumentMoniker": "JA3\\Http2\\Http2MessageHandler.cs",
+              "ToolTip": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\Http2\\Http2MessageHandler.cs",
+              "RelativeToolTip": "JA3\\Http2\\Http2MessageHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:49:48.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Http2Connection.cs",
+              "DocumentMoniker": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\Http2\\Http2Connection.cs",
+              "RelativeDocumentMoniker": "JA3\\Http2\\Http2Connection.cs",
+              "ToolTip": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\Http2\\Http2Connection.cs",
+              "RelativeToolTip": "JA3\\Http2\\Http2Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:49:47.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ja3MessageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\Ja3MessageHandler.cs",
+              "RelativeDocumentMoniker": "JA3\\Ja3MessageHandler.cs",
+              "ToolTip": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\Ja3MessageHandler.cs",
+              "RelativeToolTip": "JA3\\Ja3MessageHandler.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAiwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:49:08.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JA3",
+              "DocumentMoniker": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\JA3.csproj",
+              "RelativeDocumentMoniker": "JA3\\JA3.csproj",
+              "ToolTip": "C:\\Users\\ZygoteCode\\Desktop\\Progetti\\JA3\\JA3\\JA3.csproj",
+              "RelativeToolTip": "JA3\\JA3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T20:49:02.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
